@@ -51,7 +51,6 @@ nav ul {
   /*position: relative;*/
 }
 .button {
-  dispaly: inline-flex;
   position: absolute;
   left: 80%;
   top: 55%;
@@ -100,10 +99,6 @@ p {
   width: 95%;
   justify-content: space-between;
   margin-left: 2px;
-  /* grid-template-columns:
-    900px 450px 450px
-    450px 450px;
-  grid-template-rows: 200px 200px 200px 200px 200px; */
 }
 .k,
 .l,
@@ -115,7 +110,6 @@ p {
   margin-left: 6px;
   font-family: sans-serif;
   font-size: 14px;
-  /*width: 900px;*/
 }
 div .k:hover,
 div .l:hover,
